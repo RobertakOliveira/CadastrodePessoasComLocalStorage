@@ -1,0 +1,71 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fce1ee;
+    color: #000000;
+  }
+  
+  /* Cabeçalho */
+  h1, h2 {
+    text-align: center;
+    color: #7a196a;
+  }
+  
+  /* Formulário */
+  form {
+    max-width: 470px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    text-align: center;
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 7px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  form button {
+    width: auto;
+    padding: 12px;
+    background-color: #6c0243;
+    color: #fff;
+    border: none;
+    border-radius: 7px;
+    font-size: 16px;
+  }
+   
+  /* Lista de cadastros */
+  #listaCadastro {
+    max-width: 430px;
+    margin: 20px auto;
+    padding: 10px;
+    background: #fff;
+  }
+  
+  #listaCadastro li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  #listaCadastro button {
+    background-color: red;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+  }
+  
+  
