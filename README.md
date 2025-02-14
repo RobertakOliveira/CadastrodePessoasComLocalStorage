@@ -33,17 +33,15 @@ Este projeto é uma aplicação simples para cadastrar pessoas, utilizando **Jav
 </p>
 
 ```plaintext
-📦 CadastroPessoasComLocalStorage
-│── 📂 assets
-│   ├── 📂 css
-│   │   └── style.css
-│   ├── 📂 js
-│   │   └── script.js
-│   ├── 📂 img
-│   │   └── TelaPrincipal.png
-│── 📜 index.html
-│── 📜 README.md
-│── 📜 .gitignore 
+📁 CadastroPessoasComLocalStorage
+│── 📂 css
+│   └── 🎨 style.css
+│── 📂 javascript
+│   └── 📜 arquivo.js
+│── 📜 .gitignore
+│── 📄 index.html
+│── 📄 README.md
+│── 🖼️ TelaPrincipal.png
  ```
 ## 🔍 Passo a Passo da Implementação
 
