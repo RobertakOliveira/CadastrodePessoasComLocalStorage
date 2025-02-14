@@ -15,7 +15,7 @@ Este projeto é uma aplicação simples para cadastrar pessoas, utilizando **Jav
 
 1. Clone este repositório para o seu computador:
    ```sh
-   git clone https://github.com/seu-usuario/CadastrodePessoasComLocalStorage.git
+   git clone https://github.com/RobertakOliveira/CadastrodePessoasComLocalStorage.git
    ```
 2. Abra o arquivo `index.html` no navegador para utilizar a aplicação.
 3. Para visualizar as pessoas cadastradas no `localStorage`, abra as **ferramentas de desenvolvedor** do navegador (F12 ou clique com o botão direito > Inspecionar), acesse a aba **Application** e selecione `Local Storage`.
